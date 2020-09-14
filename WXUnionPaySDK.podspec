@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'WXUnionPaySDK'
-  s.version          = '0.0.1'
+  s.version          = '0.0.2'
   s.summary          = '银联支付SDK'
   s.description      = '集成银联支付的最新SDK'
   s.homepage         = 'https://github.com/heliang219'
